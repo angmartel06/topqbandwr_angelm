@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url('Commanders Central');
+}
+.center {
+  text-align: left;
+}
+p {
+  font-size: 30px;
+}
+
+</style>
+</head>
+<body>
+
+<h1 style="color:#FFFFFF;">#2 Quaterback</h1>
+<img src="JD55.jpg">
+<p style="background-color:#FFFFFF;"> Name: Lamar Jackson/
+
+Team : Baltimore Ravens/
+
+Height: 6'2"/
+
+Completion Percentage: 69.1%/
+
+Passing Yards: 2,669/
+
+Passing TD: 24/
+
+QB Rating: 77.6
+</p>
+
+
+</body>
+</html>

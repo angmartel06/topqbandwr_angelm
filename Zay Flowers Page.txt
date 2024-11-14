@@ -1,0 +1,48 @@
+<head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url('Ravens Nation.gif');
+}
+.center {
+  text-align: left;
+}
+p {
+  font-size: 30px;
+}
+
+</style>
+</head>
+<body>
+
+<h1 style="color:#FFFFFF;">#2 Wide Receiver</h1>
+<a href="Justin Jefferson Page.html">
+<img src="Arrow Button Left.png" style="float: left;">
+</a>
+<img src="Zay Flowers.jpg">
+<p style="background-color:#FFFFFF;"> Name:Zay Flowers/
+
+Team : Baltimore Ravens/
+
+Height: 5'9"/
+
+Receptions: 50/
+
+Receiving Yards: 688/
+
+Receiving TD: 3/
+
+Average Yards Per Game: 13.8
+</p>
+<a href="index.html">
+<img src="Home.png" style="float: center;">
+</a>
+
+
+
+</body>
+</html>
